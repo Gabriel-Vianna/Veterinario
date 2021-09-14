@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinario", "Veterinario\Veterinario.csproj", "{60778784-0F38-48B9-A219-8232AE5FAC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinario.Core", "Veterinario.Core\Veterinario.Core.csproj", "{C88F8832-7F5D-43D1-AEFA-E1E0D26B4CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60778784-0F38-48B9-A219-8232AE5FAC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60778784-0F38-48B9-A219-8232AE5FAC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60778784-0F38-48B9-A219-8232AE5FAC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60778784-0F38-48B9-A219-8232AE5FAC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88F8832-7F5D-43D1-AEFA-E1E0D26B4CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88F8832-7F5D-43D1-AEFA-E1E0D26B4CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88F8832-7F5D-43D1-AEFA-E1E0D26B4CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88F8832-7F5D-43D1-AEFA-E1E0D26B4CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A374BBE1-22FE-444B-9E36-6BFCF09A0725}
+	EndGlobalSection
+EndGlobal
